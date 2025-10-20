@@ -1,4 +1,4 @@
-public class odev1 {
+public class bonustask_4 {
 
     public static void main(String[] args) {
         
@@ -16,3 +16,4 @@ public class odev1 {
 
     }
 }
+
