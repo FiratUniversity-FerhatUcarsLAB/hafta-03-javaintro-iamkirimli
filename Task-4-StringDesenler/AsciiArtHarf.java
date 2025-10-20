@@ -1,4 +1,4 @@
-public class odev1 {
+public class gorev4_2 {
 
 	public static void main(String[] args) {
 		System.out.println("MM        MMM");
@@ -12,3 +12,4 @@ public class odev1 {
 	}
 
 }
+
