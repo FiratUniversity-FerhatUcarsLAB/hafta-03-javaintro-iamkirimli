@@ -1,4 +1,4 @@
-public class odev1 {
+public class gorev2_3 {
 
 	public static void main(String[] args) {
 		int faktoriyel = 5*4*3*2;
@@ -6,3 +6,4 @@ public class odev1 {
 	}
 
 }
+
