@@ -1,4 +1,4 @@
-public class odev1 {
+public class gorev5_2 {
 
 	public static void main(String[] args) {
 		double km = 1.609;
@@ -15,3 +15,4 @@ public class odev1 {
 	}
 
 }
+
