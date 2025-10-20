@@ -1,10 +1,8 @@
 import java.util.Scanner;
 
-import javax.swing.plaf.basic.BasicMenuItemUI;
-public class odev1 {
+public class bonustask_2 {
 
 	public static void main(String[] args) {
-		
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Boy Girin: ");
 		double boy = scanner.nextInt();
@@ -15,8 +13,7 @@ public class odev1 {
 		double bmi = (boy*boy)/kilo;
 		
 		System.out.println("BMI = " + bmi);
-		
-		
 	}
 
 }
+
