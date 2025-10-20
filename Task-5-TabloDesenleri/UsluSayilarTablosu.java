@@ -1,4 +1,4 @@
-public class odev1 {
+public class gorev5_1 {
 
 	public static void main(String[] args) {
 		int a = 1;
@@ -37,3 +37,4 @@ public class odev1 {
 	}
 
 }
+
