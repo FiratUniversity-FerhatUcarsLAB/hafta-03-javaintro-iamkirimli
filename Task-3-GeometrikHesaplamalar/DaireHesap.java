@@ -1,4 +1,4 @@
-public class odev1 {
+public class gorev3_1 {
 
 	public static void main(String[] args) {
 		double yaricap = 5.5;
@@ -11,4 +11,5 @@ public class odev1 {
 	}
 
 }
+
 
