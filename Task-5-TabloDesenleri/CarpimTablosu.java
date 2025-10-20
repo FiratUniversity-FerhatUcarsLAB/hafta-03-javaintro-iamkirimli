@@ -1,4 +1,4 @@
-public class odev1 {
+public class gorev5_3 {
 
 	public static void main(String[] args) {
 		System.out.println("2x1 = " + 2);
@@ -14,3 +14,4 @@ public class odev1 {
 	}
 
 }
+
