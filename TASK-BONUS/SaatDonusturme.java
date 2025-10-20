@@ -1,7 +1,11 @@
-public class odev1 {
+import java.util.Scanner;
+
+public class bonustask_1 {
 
 	public static void main(String[] args) {
-		int saniye = 45896;
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Saniyeyi Giriniz: ");
+		int saniye = scanner.nextInt();
 		int dakika = saniye/60;
 		int saat = dakika/60;
 		int dakikakalan = dakika%60;
@@ -10,3 +14,4 @@ public class odev1 {
 	}
 
 }
+
