@@ -1,4 +1,4 @@
-public class odev1 {
+public class gorev1_1 {
 
 	public static void main(String[] args) {
 		System.out.println("Java'ya Hoş Geldiniz");
@@ -7,3 +7,4 @@ public class odev1 {
 	}
 
 }
+
