@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bonustask_2 {
+public class bonustask_3 {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
@@ -29,4 +29,5 @@ public class bonustask_2 {
 	}
 
 }
+
 
