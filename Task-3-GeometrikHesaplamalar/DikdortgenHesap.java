@@ -1,4 +1,4 @@
-public class odev1 {
+public class gorev3_2 {
 
 	public static void main(String[] args) {
 		double en = 4.5;
@@ -11,3 +11,4 @@ public class odev1 {
 	}
 
 }
+
